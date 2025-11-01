@@ -12,7 +12,7 @@ This project is an end-to-end Netflix data analysis dashboard built in Power BI.
 - <a href="https://github.com/Shreya7402/Netflix-dashboard/blob/main/netflix_titles.xl.xlsx">Dataset</a>
 
 ## Dashboard
-
+- <a href="https://github.com/Shreya7402/Netflix-dashboard/blob/main/Screenshot%20(165).png">Dashboard</a>
 
 ## Insights
 - Most Netflix content falls under Drama and Comedy genres.
