@@ -9,6 +9,9 @@ This project is an end-to-end Netflix data analysis dashboard built in Power BI.
 - Interactive filters for genre, rating, and release year.
 
 ## Dataset used
+- <a href="https://github.com/Shreya7402/Netflix-dashboard/blob/main/netflix_titles.xl.xlsx">Dataset</a>
+
+## Dashboard
 
 
 ## Insights
