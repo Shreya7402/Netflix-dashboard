@@ -2,15 +2,12 @@
 ## Project Overview
 The goal of this project was to create an interactive Netflix dashboard using Power BI to analyze and visualize data about Netflix movies and TV shows.
 
-## Key Features
-
-
 ## Dataset used
 - <a href="https://github.com/Shreya7402/Netflix-dashboard/blob/main/credits.csv">Dataset</a>
 - <a href="https://github.com/Shreya7402/Netflix-dashboard/blob/main/titles.csv">Dataset</a>
 
 ## Dashboard
-- <a href="https://github.com/Shreya7402/Netflix-dashboard/blob/main/Screenshot%20(165).png">Dashboard</a>
+- <a href="https://github.com/Shreya7402/Netflix-dashboard/blob/main/Screenshot%20(171).png">Dashboard</a>
 
 ## Insights
 1.Dynamic Filters & Slicers
